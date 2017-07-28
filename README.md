@@ -12,7 +12,9 @@
 
 ### Nuget
 
+```
   Install-Package Naxam.CRToast.iOS
+```
   
 ## Usage
 
